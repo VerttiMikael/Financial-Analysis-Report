@@ -29,6 +29,7 @@ This PowerBI project is designed to provide insightful financial analysis and re
 
 ### Getting the data
 By using SSMS, analyzed what tables and columns to use in the project
+![Financial Dashboard](/Dashboard/PowerBi_ssms.png)
 
 ### Implementing the relationships between different tables
 ![Financial Dashboard](/Dashboard/PowerBi_relationship.png)
