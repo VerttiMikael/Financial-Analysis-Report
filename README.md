@@ -1,7 +1,7 @@
 # PowerBI Financial Report Project
 
 ## Overview
-This PowerBI project is designed to provide insightful financial analysis and reporting based on the AdventureWorks2022 database. It aims to deliver comprehensive insights into sales, expenses, and future financial state of the imaginary company.
+This PowerBI project is designed to provide insightful financial analysis and reporting based on the AdventureWorks2022 database. It aims to deliver comprehensive insights into sales, expenses, and the future financial state of the imaginary company.
 
 ## Dashboard 
 ![Financial Dashboard](/Dashboard/PowerBi_1.png)
@@ -16,6 +16,14 @@ This PowerBI project is designed to provide insightful financial analysis and re
 - **Sales Forecast**: Projects future sales revenue based on current trends and historical data, which is for financial planning and forecasting growth trajectories.
 
 ## Additional Features
+### Ability to change the year and specific group
+![Financial Dashboard](/Dashboard/PowerBi_3.png)
+
+### Responsive dashboard showcasing changes compared to last year
+![Financial Dashboard](/Dashboard/PowerBi_4.png)
+
+### Drill down possibility on Product Sales
+![Financial Dashboard](/Dashboard/PowerBi_5.png)
 
 ## Data Source
 The data for this project is sourced from the AdventureWorks2022 database.
