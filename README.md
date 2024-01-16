@@ -4,6 +4,7 @@
 This PowerBI project is designed to provide insightful financial analysis and reporting based on the AdventureWorks2022 database. It aims to deliver comprehensive insights into sales, expenses, and future financial state of the imaginary company.
 
 ## Dashboard 
+![Financial Dashboard](Dashboard/PowerBi-1.png)
 
 - **Total Sales**: Measures the overall revenue generated from product sales. This KPI is for evaluating the company's growth and market reach.
 - **Total Profit**: Indicates the net profitability after subtracting total expenses from total sales. 
