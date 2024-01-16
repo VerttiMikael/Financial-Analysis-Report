@@ -25,7 +25,16 @@ This PowerBI project is designed to provide insightful financial analysis and re
 ### Drill down possibility on Product Sales
 ![Financial Dashboard](/Dashboard/PowerBi_5.png)
 
-## 
+## Making The Project
+
+### Getting the data
+By using SSMS, analyzed what tables and columns to use in the project
+
+### Implementing the relationships between different tables
+![Financial Dashboard](/Dashboard/PowerBi_relationships.png)
+
+### Adding a new column for specifying the product type
+For the reason of the default types only having 4 different types and not giving enough insight on the sales performance between different products
 
 
 ## Data Source
