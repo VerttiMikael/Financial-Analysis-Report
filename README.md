@@ -15,7 +15,9 @@ This PowerBI project is designed to provide insightful financial analysis and re
 - **Units Sold Forecast**: Uses historical sales data to predict future sales volumes. This forecast aids in strategic planning, inventory management, and production scheduling.
 - **Sales Forecast**: Projects future sales revenue based on current trends and historical data, which is for financial planning and forecasting growth trajectories.
 
+## Additional Features
+
 ## Data Source
 The data for this project is sourced from the AdventureWorks2022 database.
-Link : https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+Link: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
 
