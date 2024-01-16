@@ -28,7 +28,7 @@ This PowerBI project is designed to provide insightful financial analysis and re
 ## Making The Project
 
 ### Getting the data
-By using SSMS, analyzed what tables and columns to use in the project
+By using SSMS, analyzed what tables and columns to use in the dashboard. Decided to go forward with more of an Financial analysis so used more tables from Sales and Production
 
 
 ### Implementing the relationships between different tables
