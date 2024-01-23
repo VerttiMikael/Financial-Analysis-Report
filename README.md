@@ -35,7 +35,7 @@ By using SSMS, analyzed what tables and columns to use in the dashboard. Decided
 ![Financial Dashboard](/Dashboard/PowerBi_relationship.png)
 
 ### Adding a new column for specifying the product type
-For the reason of the default product types only having 4 different alternatives and not giving enough insight on the sales performance between different products, added a column that specifies products to more appropriate categories. Made it in Production.Product table and named the column ProductionCategory.
+For the reason of the default product types only having 4 different alternatives and not giving enough insight on the sales performance between different products, added a column that specifies products to more appropriate categories. Made it in Production.Product table and named the column ProductCategory.
 
 
 ## Data Source
